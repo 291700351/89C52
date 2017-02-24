@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="96,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,">
+        <Project ProjectGUID="{2ADF219A-6A20-4171-88DC-F379997DC65C}" Name="89C52" ACTCFG="DebugRel">
+            <TARGOPT Name="DebugRel" OPTDF="0">
+                <OPTFFF VAL="&lt;.\main.c&gt; {2,3,-1,-1,52,52,790,378,11,439}" />
+                <OPTFFF VAL="&lt;.\src\1302.c&gt; {0,1,-1,-1,104,104,868,367,87,2558}" />
+                <OPTFFF VAL="&lt;.\include\1302.h&gt; {0,1,-1,-1,104,104,868,426,23,1179}" />
+                <OPTFFF VAL="&lt;.\src\1602.c&gt; {0,1,-1,-1,130,130,894,452,74,2065}" />
+                <OPTFFF VAL="&lt;.\include\1602.h&gt; {0,1,-1,-1,0,0,764,322,54,2485}" />
+                <OPTFFF VAL="&lt;Disassembly&gt; {2,3,-1,-1,78,78,894,245,0,0}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>
